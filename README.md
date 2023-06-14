@@ -1,7 +1,7 @@
 # Sistema Experto en Anime
 Sistema Experto sobre anime desarrollado con Python
 
-#Características
+## Características
 - Usando como motor de inferencia PyMySQL
 - Base de hechos en MySQL
 - Interfaz Gráfica de Usuario (GUI) con Qt, PyQt
